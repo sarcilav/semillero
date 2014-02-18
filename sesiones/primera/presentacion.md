@@ -17,3 +17,5 @@ Once we formulate the solution to a problem recursively as in terms of its subpr
 # Ejemplo
 
 Recomendación de Jorman http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3928
+
+Primera aproximación tratar de computar parejas que digan cual es la mejor opcion entre par de consecutivas
